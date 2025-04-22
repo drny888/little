@@ -44,7 +44,7 @@
   "config/auto-theme": "false",
   "config/language": "zh-CN",
   "config/connection-table-columns": "[\"close\",\"type\",\"sourceIP\",\"host\",\"remoteAddress\",\"chains\",\"rule\",\"dlSpeed\",\"ulSpeed\",\"dl\",\"ul\",\"connectTime\"]",
-  "setup/api-list": "[{\"protocol\":\"http\",\"host\":\"192.168.3.1\",\"port\":\"9090\",\"secondaryPath\":\"\",\"password\":\"123456\",\"label\":\"\",\"uuid\":\"54636953-e506-4941-aa2b-44a04780f70b\"}]",
+  "setup/api-list": "[{\"protocol\":\"http\",\"host\":\"192.168.5.252\",\"port\":\"9090\",\"secondaryPath\":\"\",\"password\":\"159357\",\"label\":\"\",\"uuid\":\"54636953-e506-4941-aa2b-44a04780f70b\"}]",
   "config/proxies-count-mode": "aliveTotal",
   "config/proxy-card-size": "large",
   "config/log-search-history": "[\"hsy88.org\",\"https://hsy88.org\",\"https://hsy88.org/\",\"ustc.edu.cn\",\"idolevent.com.cn\"]",
