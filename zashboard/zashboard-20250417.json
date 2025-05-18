@@ -48,7 +48,7 @@
   "config/proxies-count-mode": "aliveTotal",
   "config/proxy-card-size": "large",
   "config/log-search-history": "[\"incolumitas.com\",\"netflix.com\",\"wikipedia.org\",\"idolevent.com.cn\",\"cooluc.com\"]",
-  "config/auto-upgrade-core": "true",
+  "config/auto-upgrade-core": "false",
   "config/manage-hidden-group-mode": "false",
   "config/low-latency": "400",
   "config/check-upgrade-core": "true",
